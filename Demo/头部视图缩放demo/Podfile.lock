@@ -1,0 +1,12 @@
+PODS:
+  - YZHeaderScaleImage (1.0.1)
+
+DEPENDENCIES:
+  - YZHeaderScaleImage
+
+SPEC CHECKSUMS:
+  YZHeaderScaleImage: 1ca4ed11644a4ccad7c4370de2fcbc8f6e145793
+
+PODFILE CHECKSUM: d78515a321eb96ecbc6e903b1f8e2f7a31c9da22
+
+COCOAPODS: 1.0.1
